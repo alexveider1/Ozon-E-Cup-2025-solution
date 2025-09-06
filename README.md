@@ -9,3 +9,4 @@
 В команде для решения хакатона принимали участие:
 * `https://github.com/alexveider1`
 * `https://github.com/Dmitrynnnnn23`
+* `https://github.com/PonomarevaAnna`
