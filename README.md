@@ -7,6 +7,7 @@
 * `README.md` $-$ файл с описанием решения хакатона
 
 В команде для решения хакатона принимали участие:
+* `https://github.com/Dmitrynnnnn23` (капитан)
 * `https://github.com/alexveider1`
-* `https://github.com/Dmitrynnnnn23`
 * `https://github.com/PonomarevaAnna`
+* `https://github.com/voronvoron`
